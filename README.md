@@ -1,5 +1,7 @@
 # Portfolio
 
+Fiz assistindo essa playlist https://www.youtube.com/watch?v=L_JSUkn7LME&list=PLM_90--7SomWgfPYCXnpuoY2L-Z_Z-AiV mas não está completo.
+
 Portfolio do desenvolvedor
 
 ## Terefas
