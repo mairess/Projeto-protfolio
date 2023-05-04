@@ -18,3 +18,6 @@ O controle das tarefas será realizado no GitHub
 - :up: atualização
 - :beetle: correção de bug
 - :checkered_flag: release
+
+![portfolio](https://user-images.githubusercontent.com/130297266/236201306-c5365c33-6bff-4e65-ba3c-d13be58ea563.gif)
+
