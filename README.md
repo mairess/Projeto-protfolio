@@ -1,8 +1,12 @@
-# Portfolio
+# <p align="center"> Portfolio </p>
 
-Fiz assistindo essa playlist https://www.youtube.com/watch?v=L_JSUkn7LME&list=PLM_90--7SomWgfPYCXnpuoY2L-Z_Z-AiV mas não está completo.
+* Whatching this 👉🏽 https://www.youtube.com/watch?v=L_JSUkn7LME&list=PLM_90--7SomWgfPYCXnpuoY2L-Z_Z-AiV 
 
-Portfolio do desenvolvedor
+* It is not completed yet 🤦🏽‍♂️
+
+* But oyu can check this out here 👉🏽 https://mairess.github.io/Projeto-protfolio/
+
+## Portfolio do desenvolvedor
 
 ## Terefas
 
