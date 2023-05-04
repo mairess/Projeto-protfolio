@@ -4,7 +4,7 @@
 
 * It is not completed yet 🤦🏽‍♂️
 
-* But oyu can check this out here 👉🏽 https://mairess.github.io/Projeto-protfolio/
+* But you can check this out here 👉🏽 https://mairess.github.io/Projeto-protfolio/
 
 ## Portfolio do desenvolvedor
 
